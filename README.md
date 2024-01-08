@@ -1,9 +1,14 @@
-### 👋 Hi there my No. ![VisitorCount](https://profile-counter.glitch.me/{yourusername}/count.svg) visitor, I'm Jishen Lin from Tongji University!
+### 👋 Hi there my No. ![VisitorCount](https://profile-counter.glitch.me/MinmusLin/count.svg) visitor, I'm Jishen Lin from Tongji University!
 
-![RandomQuote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-- 🌱 I'm a undergraduate student of School of Software Engineering, Tongji University.
-- 📫 Email: minmuslin@outlook.com
+* 🚀 I'm an undergraduate student of School of Software Engineering, Tongji University.
+* 🌱 I’m currently learning software engineering and exploring new technologies.
+* 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
+* 📫 Email: minmuslin@outlook.com
+* 💬 WeChat: MinmusLin
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="195"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="200"/>
+</div>
