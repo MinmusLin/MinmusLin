@@ -1,8 +1,9 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30"/> Hi there, I'm Jishen Lin!
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30"/>
+Hi there my No.
+<img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30"/>
+visitor!
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=MinmusLin&label=Profile%20views&color=0047AB&style=plastic?" alt="MinmusLin" height=25px, width=160px/>
-</p>
+---
 
 * 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
 * 🌱 I’m currently learning software engineering and exploring new technologies.
@@ -17,6 +18,6 @@
 
 ---
 
-⏳ Year Progress [ ▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 12.17 %
+⏳ Year Progress [ ▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 12.18 %
 
-⏰ Updated on Wed, 14 Feb 2024 13:23:02 GMT
+⏰ Updated on Wed, 14 Feb 2024 13:27:42 GMT
