@@ -7,8 +7,8 @@ const progressBarOfThisYear = generateProgressBar()
 function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
-    const progressBar = '█'.repeat(passedProgressBarIndex) + '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
-    return `[${progressBar}]`
+    const progressBar = '▇'.repeat(passedProgressBarIndex) + '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
+    return `[ ${progressBar} ]`
 }
 
 const readme = `\
@@ -19,7 +19,7 @@ const readme = `\
   visitor!
 </h1>
 
-* 🚀 I'm Jishen Lin, an undergraduate student of [School of Software Engineering](https://sse.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/).
+* 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
 * 🌱 I’m currently learning software engineering and exploring new technologies.
 * 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
 * 📫 Email: minmuslin@outlook.com
