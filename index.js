@@ -21,8 +21,6 @@ const readme = `\
 
 ⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-⏰ Updated on ${new Date().toUTCString()}
-
 ---
 
 * 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
@@ -34,7 +32,11 @@ const readme = `\
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
-</div>\
+</div>
+
+---
+
+⏰ Updated on ${new Date().toUTCString()}\
 `
 
 console.log(readme)
