@@ -7,8 +7,6 @@
 
 ⏳ Year Progress [ ▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 12.18 %
 
-⏰ Updated on Wed, 14 Feb 2024 13:30:12 GMT
-
 ---
 
 * 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
@@ -21,3 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
 </div>
+
+---
+
+⏰ Updated on Wed, 14 Feb 2024 13:32:13 GMT
