@@ -7,9 +7,7 @@ const progressBarOfThisYear = generateProgressBar()
 function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
-    const progressBar =
-      '█'.repeat(passedProgressBarIndex) +
-      '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
+    const progressBar = '■'.repeat(passedProgressBarIndex) + '□'.repeat(progressBarCapacity - passedProgressBarIndex)
     return `{ ${progressBar} }`
 }
 
@@ -21,11 +19,11 @@ const readme = `\
   visitor!
 </h1>
 
-* 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.\n
-* 🌱 I’m currently learning software engineering and exploring new technologies.\n
-* 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.\n
-* 📫 Email: minmuslin@outlook.com\n
-* 💬 WeChat: MinmusLin\n
+* 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
+* 🌱 I’m currently learning software engineering and exploring new technologies.
+* 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
+* 📫 Email: minmuslin@outlook.com
+* 💬 WeChat: MinmusLin
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
@@ -34,7 +32,7 @@ const readme = `\
 
 ---
 
-⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %\n
+⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ⏰ Updated on ${new Date().toUTCString()}\
 `
 
