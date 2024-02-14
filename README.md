@@ -15,6 +15,7 @@
 
 * 💬 WeChat: MinmusLin
 
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
@@ -22,6 +23,6 @@
 
 ---
 
-⏳ Year Progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 12.16 %
+⏳ Year Progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 12.17 %
 
-⏰ Updated on Wed, 14 Feb 2024 12:32:43 GMT
+⏰ Updated on Wed, 14 Feb 2024 12:47:22 GMT
