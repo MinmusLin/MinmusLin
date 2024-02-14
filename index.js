@@ -12,10 +12,16 @@ function generateProgressBar() {
 }
 
 const readme = `\
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30"/>
-Hi there my No.
-<img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30"/>
-visitor!
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30"/>
+  Hi there my No.
+  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30"/>
+  visitor!
+</h1>
+
+⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+
+⏰ Updated on ${new Date().toUTCString()}
 
 ---
 
@@ -28,13 +34,7 @@ visitor!
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
-</div>
-
----
-
-⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-
-⏰ Updated on ${new Date().toUTCString()}\
+</div>\
 `
 
 console.log(readme)
