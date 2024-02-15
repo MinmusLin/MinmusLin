@@ -23,3 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
 </div>
+
+---
+
+_Take a look at my repositories and let's get in touch!_
+
+---
