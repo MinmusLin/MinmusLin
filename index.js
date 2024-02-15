@@ -40,7 +40,7 @@ const readme = `\
 
 ---
 
-_Take a look at my repositories and let's get in touch! 🥰_
+_Take a look at my repositories and let's get in touch!_ 🥰
 
 ---\
 `
