@@ -1,4 +1,4 @@
-name: Progress Bar
+name: YProgress Bar
 on:
   workflow_dispatch:
   schedule:
