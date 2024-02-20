@@ -1,4 +1,4 @@
-name: YProgress Bar
+name: Year Progress
 on:
   workflow_dispatch:
   schedule:
