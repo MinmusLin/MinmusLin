@@ -38,10 +38,6 @@ const readme = `\
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
 </div>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 ---
 
 _Take a look at my repositories and let's get in touch!_ 🥰
