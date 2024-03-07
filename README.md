@@ -5,10 +5,10 @@
   visitor!
 </h1>
 
-<blockquote style="background-color: #F0F8FF; border-left: 5px solid #0000FF; padding: 10px;">
-  <h4 style="color: #0000FF; margin: 0;">Custom Title</h4>
-  <p>This is a custom quote block with a colored title.</p>
-</blockquote>
+> [!TIP]
+> ⏳ Year Progress [ ▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 18.11 %
+>
+> ⏰ Updated on Thu, 07 Mar 2024 06:31:24 GMT
 
 * 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
 
