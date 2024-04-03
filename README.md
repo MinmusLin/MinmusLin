@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 25.42 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 25.59 %
 >
-> ⏰ Updated on Wed, 03 Apr 2024 01:00:19 GMT
+> ⏰ Updated on Wed, 03 Apr 2024 15:34:47 GMT
 
 * 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
 
@@ -20,9 +20,9 @@
 
 * 💬 WeChat: MinmusLin
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
 </div>
 
 <p>
@@ -38,3 +38,7 @@ _Take a look at my repositories and let's get in touch!_ 🥰
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%">
   </a>
 </p>
+
+<div align="center">
+  <img src="coding.gif">
+</div>
