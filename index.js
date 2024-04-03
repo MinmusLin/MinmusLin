@@ -34,9 +34,9 @@ const readme = `\
 
 * 💬 WeChat: MinmusLin
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&theme=tokyonight&layout=compact" height="190"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
 </div>
 
 <p>
@@ -53,5 +53,9 @@ _Take a look at my repositories and let's get in touch!_ 🥰
   </a>
 </p>\
 `
+
+<div align="center">
+  <img src="coding.gif">
+</div>
 
 console.log(readme)
