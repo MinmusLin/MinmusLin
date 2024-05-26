@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 39.63 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 39.90 %
 >
-> ⏰ Updated on Sat, 25 May 2024 01:03:58 GMT
+> ⏰ Updated on Sun, 26 May 2024 01:10:16 GMT
 
 * 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
 
