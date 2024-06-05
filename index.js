@@ -39,7 +39,9 @@ const readme = `\
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
 </div>
 
-_Take a look at my repositories and let's get in touch!_ 🥰\
+<div align="center">
+  > <em>Take a look at my repositories and let's get in touch!</em> 🥰 <
+</div>\
 `
 
 console.log(readme)
