@@ -39,23 +39,7 @@ const readme = `\
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
 </div>
 
-<p>
-  <a href="https://adityaprasad.eu.org" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%">
-  </a>
-</p>
-
-_Take a look at my repositories and let's get in touch!_ 🥰
-
-<p>
-  <a href="https://adityaprasad.eu.org" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%">
-  </a>
-</p>
-
-<div align="center">
-  <img src="coding.gif">
-</div>\
+_Take a look at my repositories and let's get in touch!_ 🥰\
 `
 
 console.log(readme)
