@@ -43,7 +43,7 @@ const readme = `\
   <img width="100%" src="assets/Snake.svg"/>
 </p>
 
-### *Take a look at my repositories and let's get in touch!* 🥰\
+#### *Take a look at my repositories and let's get in touch!* 🥰\
 `
 
 console.log(readme)
