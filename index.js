@@ -24,7 +24,9 @@ const readme = `\
 >
 > ⏰ Updated on ${new Date().toUTCString()}
 
-* 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
+### 👨‍💻 *About Me*
+
+* 🚀 I'm Jishen Lin, an undergraduate student of [School of Software Engineering](https://sse.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn).
 
 * 🌱 I’m currently learning software engineering and exploring new technologies.
 
@@ -41,6 +43,8 @@ const readme = `\
 * 🧰 Frameworks and Libraries: Vue/Vite, Cocos2d-x, PyTorch, TensorFlow, Scikit-learn
 
 * 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
+
+### 📊 *My GitHub*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
