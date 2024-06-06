@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 42.91 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 43.10 %
 >
-> ⏰ Updated on Thu, 06 Jun 2024 01:06:19 GMT
+> ⏰ Updated on Thu, 06 Jun 2024 18:04:09 GMT
 
 * 🚀 I'm Jishen Lin, an undergraduate student of School of Software Engineering, Tongji University.
 
@@ -20,6 +20,14 @@
 
 * 💬 WeChat: MinmusLin
 
+### 🔬 *Technology Stack*
+
+* 💻 Programming Languages: C/C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Java, SQL
+
+* 🧰 Frameworks and Libraries: Vue/Vite, Cocos2d-x, PyTorch, TensorFlow, Scikit-learn
+
+* 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
@@ -29,4 +37,4 @@
   <img width="100%" src="assets/Snake.svg"/>
 </p>
 
-### *Take a look at my repositories and let's get in touch!* 🥰
+### 🥰 *Take a look at my repositories and let's get in touch!*
