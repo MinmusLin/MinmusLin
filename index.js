@@ -34,6 +34,14 @@ const readme = `\
 
 * 💬 WeChat: MinmusLin
 
+### 🔬 *Technology Stack*
+
+* 💻 Programming Languages: C/C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Java, SQL
+
+* 🧰 Frameworks and Libraries: Vue/Vite, Cocos2d-x, PyTorch, TensorFlow, Scikit-learn
+
+* 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
@@ -43,7 +51,7 @@ const readme = `\
   <img width="100%" src="assets/Snake.svg"/>
 </p>
 
-### *Take a look at my repositories and let's get in touch!* 🥰\
+### 🥰 *Take a look at my repositories and let's get in touch!*\
 `
 
 console.log(readme)
