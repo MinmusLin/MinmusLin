@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 44.00 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 44.08 %
 >
-> ⏰ Updated on Mon, 10 Jun 2024 01:09:19 GMT
+> ⏰ Updated on Mon, 10 Jun 2024 08:12:59 GMT
 
 ### 👨‍💻 *About Me*
 
@@ -24,9 +24,9 @@
 
 ### 🔬 *Technology Stack*
 
-* 💻 Programming Languages: C/C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Java, SQL
+* 💻 Programming Languages: C/C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Dart, Java, SQL
 
-* 🧰 Frameworks and Libraries: Vue/Vite, Cocos2d-x, Qt, PyTorch, TensorFlow, Scikit-learn
+* 🧰 Frameworks and Libraries: Vue/Vite, Cocos2d-x, Qt, Flutter, PyTorch, TensorFlow, Scikit-learn
 
 * 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
 
