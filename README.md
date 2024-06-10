@@ -8,9 +8,9 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 44.08 %
 >
-> ⏰ Updated on Mon, 10 Jun 2024 08:12:59 GMT
+> ⏰ Updated on Mon, 10 Jun 2024 08:17:11 GMT
 
-### 👨‍💻 [*About Me*](https://minmuslin.github.io)
+### 👨‍💻 *About Me*
 
 * 🚀 I'm Jishen Lin, an undergraduate student of [School of Software Engineering](https://sse.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn).
 
@@ -30,7 +30,7 @@
 
 * 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
 
-### 📊 [*My GitHub*](https://github.com/MinmusLin)
+### 📊 *My GitHub*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
