@@ -6,13 +6,13 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁ ] 61.49 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁ ] 61.58 %
 >
-> ⏰ Updated on Tue, 13 Aug 2024 01:12:58 GMT
+> ⏰ Updated on Tue, 13 Aug 2024 09:32:57 GMT
 
 ### 👨‍💻 *[About Me](https://minmuslin.github.io)*
 
-* 🚀 I'm Jishen Lin, an undergraduate student of [School of Software Engineering](https://sse.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn).
+* 🚀 I'm Jishen Lin, An undergraduate student of College of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn).
 
 * 🌱 I’m currently learning software engineering and exploring new technologies.
 
