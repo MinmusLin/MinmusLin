@@ -1,14 +1,14 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30"/>
+  <img src='assets/MeowCode.gif' height='30'/>
   Hi there my No.
-  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30"/>
+  <img src='https://profile-counter.glitch.me/MinmusLin/count.svg' height='30'/>
   visitor!
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁ ] 62.31 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁ ] 62.35 %
 >
-> ⏰ Updated on Fri, 16 Aug 2024 01:11:11 GMT
+> ⏰ Updated on Fri, 16 Aug 2024 05:05:04 GMT
 
 ### 👨‍💻 *[About Me](https://minmuslin.github.io)*
 
@@ -32,13 +32,13 @@
 
 ### 📊 *[My GitHub](https://github.com/MinmusLin)*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true' height='190'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact' height='190'/>
 </div>
 
-<p align="center">
-  <img width="100%" src="assets/Snake.svg"/>
+<p align='center'>
+  <img width='100%' src='assets/Snake.svg'/>
 </p>
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
