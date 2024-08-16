@@ -13,9 +13,9 @@ function generateProgressBar() {
 
 const readme = `\
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30"/>
+  <img src='assets/MeowCode.gif' height='30'/>
   Hi there my No.
-  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30"/>
+  <img src='https://profile-counter.glitch.me/MinmusLin/count.svg' height='30'/>
   visitor!
 </h1>
 
@@ -46,13 +46,13 @@ const readme = `\
 
 ### 📊 *[My GitHub](https://github.com/MinmusLin)*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact" height="190"/>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true' height='190'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact' height='190'/>
 </div>
 
-<p align="center">
-  <img width="100%" src="assets/Snake.svg"/>
+<p align='center'>
+  <img width='100%' src='assets/Snake.svg'/>
 </p>
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*\
