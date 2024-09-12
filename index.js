@@ -26,7 +26,7 @@ const readme = `\
 
 ### 👨‍💻 *[About Me](https://minmuslin.github.io)*
 
-* 🚀 I'm Jishen Lin, An undergraduate student of College of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn).
+* 🚀 I'm Jishen Lin, An undergraduate student of School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn).
 
 * 🌱 I’m currently learning software engineering and exploring new technologies.
 
