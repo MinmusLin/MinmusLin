@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁ ] 70.51 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁ ] 70.61 %
 >
-> ⏰ Updated on Sun, 15 Sep 2024 01:23:33 GMT
+> ⏰ Updated on Sun, 15 Sep 2024 09:57:40 GMT
 
 ### 👨‍💻 *[About Me](https://minmuslin.github.io)*
 
@@ -36,9 +36,5 @@
   <img src='https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true' height='190'/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact' height='190'/>
 </div>
-
-<p align='center'>
-  <img width='100%' src='assets/Snake.svg'/>
-</p>
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
