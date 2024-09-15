@@ -8,7 +8,7 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁ ] 70.61 %
 >
-> ⏰ Updated on Sun, 15 Sep 2024 09:57:40 GMT
+> ⏰ Updated on Sun, 15 Sep 2024 10:01:11 GMT
 
 ### 👨‍💻 *[About Me](https://minmuslin.github.io)*
 
@@ -24,9 +24,9 @@
 
 ### 🔬 *Technology Stack*
 
-* 💻 Programming Languages: C/C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Dart, Java, SQL, Rust
+* 💻 Programming Languages: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
 
-* 🧰 Frameworks and Libraries: Vue/Vite, Cocos2d-x, Qt, Flutter, PyTorch, TensorFlow, Scikit-learn, OpenCV
+* 🧰 Frameworks and Libraries: Vue/Vite, Spring Boot, Cocos2d-x, Qt, Flutter, PyTorch, TensorFlow, Scikit-learn, OpenCV
 
 * 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
 
