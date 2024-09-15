@@ -38,9 +38,9 @@ const readme = `\
 
 ### 🔬 *Technology Stack*
 
-* 💻 Programming Languages: C/C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Dart, Java, SQL, Rust
+* 💻 Programming Languages: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
 
-* 🧰 Frameworks and Libraries: Vue/Vite, Cocos2d-x, Qt, Flutter, PyTorch, TensorFlow, Scikit-learn, OpenCV
+* 🧰 Frameworks and Libraries: Vue/Vite, Spring Boot, Cocos2d-x, Qt, Flutter, PyTorch, TensorFlow, Scikit-learn, OpenCV
 
 * 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
 
