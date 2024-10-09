@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 77.06 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 77.25 %
 >
-> ⏰ Updated on Wed, 09 Oct 2024 01:18:48 GMT
+> ⏰ Updated on Wed, 09 Oct 2024 17:20:46 GMT
 
 ### 👨‍💻 *[About Me](https://minmuslin.github.io)*
 
@@ -26,9 +26,11 @@
 
 * 💻 Programming Languages: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
 
-* 🧰 Frameworks and Libraries: Vue/Vite, Spring Boot, Cocos2d-x, Qt, Flutter, PyTorch, TensorFlow, Scikit-learn, OpenCV
+* 🧰 Frameworks and Libraries: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
 
-* 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, LaTeX
+* 📈 Data Analysis: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
+
+* 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
 
 ### 📊 *[My GitHub](https://github.com/MinmusLin)*
 
