@@ -32,10 +32,6 @@ Feel free to reach out if you’d like to discuss ideas or explore new possibili
 
 [Click here](https://minmuslin.github.io) to visit my homepage!
 
-* 📫 Email: minmuslin@outlook.com
-
-* 💬 WeChat: MinmusLin
-
 ### 🔬 *Technical Skills*
 
 * 💻 **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
