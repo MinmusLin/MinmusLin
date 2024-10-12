@@ -6,33 +6,33 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 77.88 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 78.04 %
 >
-> ⏰ Updated on Sat, 12 Oct 2024 01:17:10 GMT
+> ⏰ Updated on Sat, 12 Oct 2024 14:56:18 GMT
 
-### 👨‍💻 *[About Me](https://minmuslin.github.io)*
+### 👨‍💻 *About Me*
 
-* 🚀 I'm Jishen Lin, An undergraduate student of School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn).
+I’m Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
-* 🌱 I’m currently learning software engineering and exploring new technologies.
+Feel free to reach out if you’d like to discuss ideas or explore new possibilities in tech innovation!
 
-* 🔭 I love collaborating on interesting tech projects and connecting with like-minded individuals.
+[Click here](https://minmuslin.github.io) to visit my homepage!
 
 * 📫 Email: minmuslin@outlook.com
 
 * 💬 WeChat: MinmusLin
 
-### 🔬 *Technology Stack*
+### 🔬 *Technical Skills*
 
-* 💻 Programming Languages: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
+* 💻 **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
 
-* 🧰 Frameworks and Libraries: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
+* 🧰 **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
 
-* 📈 Data Analysis: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
+* 📈 **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
 
-* 🛠️ Development Tools: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+* 🛠️ **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
 
-### 📊 *[My GitHub](https://github.com/MinmusLin)*
+### 📊 *My GitHub*
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true' height='190'/>
@@ -40,5 +40,3 @@
 </div>
 
 ### 🥰 *Take a look at my repositories and let's get in touch!*
-
-<iframe src="https://minmuslin.github.io/" width="100%" height="600px"></iframe>
