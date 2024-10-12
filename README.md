@@ -8,7 +8,7 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 78.04 %
 >
-> ⏰ Updated on Sat, 12 Oct 2024 14:56:18 GMT
+> ⏰ Updated on Sat, 12 Oct 2024 14:58:55 GMT
 
 ### 👨‍💻 *About Me*
 
@@ -17,10 +17,6 @@ I’m Jishen Lin, an undergraduate student majoring in Software Engineering with
 Feel free to reach out if you’d like to discuss ideas or explore new possibilities in tech innovation!
 
 [Click here](https://minmuslin.github.io) to visit my homepage!
-
-* 📫 Email: minmuslin@outlook.com
-
-* 💬 WeChat: MinmusLin
 
 ### 🔬 *Technical Skills*
 
