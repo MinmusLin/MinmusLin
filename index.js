@@ -13,9 +13,9 @@ function generateProgressBar() {
 
 const readme = `\
 <h1>
-  <img src='assets/MeowClorox.gif' height='30'/>
+  <img src='assets/MeowClorox.gif' height='30' width='30'/>
   Hi there my No.
-  <img src='https://profile-counter.glitch.me/MinmusLin/count.svg' height='30'/>
+  <img src='https://profile-counter.glitch.me/MinmusLin/count.svg'/>
   visitor!
 </h1>
 
