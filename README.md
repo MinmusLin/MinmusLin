@@ -8,9 +8,9 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 78.04 %
 >
-> ⏰ Updated on Sat, 12 Oct 2024 14:58:55 GMT
+> ⏰ Updated on Sat, 12 Oct 2024 15:00:24 GMT
 
-### 👨‍💻 *About Me*
+### 👨‍💻 About Me
 
 I’m Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
@@ -18,7 +18,7 @@ Feel free to reach out if you’d like to discuss ideas or explore new possibili
 
 [Click here](https://minmuslin.github.io) to visit my homepage!
 
-### 🔬 *Technical Skills*
+### 🔬 Technical Skills
 
 * 💻 **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
 
@@ -28,11 +28,11 @@ Feel free to reach out if you’d like to discuss ideas or explore new possibili
 
 * 🛠️ **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
 
-### 📊 *My GitHub*
+### 📊 My GitHub
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true' height='190'/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact' height='190'/>
 </div>
 
-### 🥰 *Take a look at my repositories and let's get in touch!*
+### 🥰 Take a look at my repositories and let's get in touch!
