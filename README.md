@@ -1,14 +1,14 @@
 <h1>
-  <img src='assets/MeowClorox.gif' height='30'/>
+  <img src='assets/MeowClorox.gif' height='30' width='30'/>
   Hi there my No.
-  <img src='https://profile-counter.glitch.me/MinmusLin/count.svg' height='30'/>
+  <img src='https://profile-counter.glitch.me/MinmusLin/count.svg'/>
   visitor!
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 78.04 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ ] 78.08 %
 >
-> ⏰ Updated on Sat, 12 Oct 2024 15:00:24 GMT
+> ⏰ Updated on Sat, 12 Oct 2024 18:08:07 GMT
 
 ### 👨‍💻 About Me
 
