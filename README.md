@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁ ] 81.44 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁ ] 81.60 %
 >
-> ⏰ Updated on Fri, 25 Oct 2024 01:20:08 GMT
+> ⏰ Updated on Fri, 25 Oct 2024 15:44:29 GMT
 
 ### 👨‍💻 About Me
 
@@ -22,15 +22,15 @@
 
 * Feel free to reach out if you’d like to discuss ideas or explore new possibilities in tech innovation! [Click here](https://minmuslin.github.io) to visit my homepage!
 
-### 🔬 Technical Skills
+### 🛠️ Technical Skills
 
-* 💻 **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust
+* 🖥️ **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust
 
 * 🧰 **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV, SwiftUI
 
 * 📈 **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
 
-* 🛠️ **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+* ⚙️ **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
 
 ### 📊 My GitHub
 
