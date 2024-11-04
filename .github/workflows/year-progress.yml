@@ -1,0 +1,30 @@
+name: Year Progress
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+  
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+  
+      - name: Update README.md
+        run: |
+          node index.js > README.md
+  
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update submodules" || echo "No changes to commit"
+          git push
