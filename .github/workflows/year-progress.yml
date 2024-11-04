@@ -1,6 +1,7 @@
 name: Year Progress
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
