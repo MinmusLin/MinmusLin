@@ -6,23 +6,17 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁ ] 89.63 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁ ] 89.69 %
 >
-> ⏰ Updated on Sun, 24 Nov 2024 00:56:38 GMT
+> ⏰ Updated on Sun, 24 Nov 2024 05:58:18 GMT
 
 ### 👨‍💻 About Me
 
-[My Resume](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/resume/Resume_En.docx) | [我的简历](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/resume/Resume_Zh.docx)
+[My Resume](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/resume/Resume_En.pdf) | [我的简历](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/resume/Resume_Zh.pdf)
 
-* I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn).
+I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
-* I am passionate about full-stack development and committed to practicing elegant engineering solutions.
-
-* I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions.
-
-* With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
-
-* Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation! [Click here](https://minmuslin.github.io) to visit my homepage!
+Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation! [Click here](https://minmuslin.github.io) to visit my homepage!
 
 ### 🛠️ Technical Skills
 
