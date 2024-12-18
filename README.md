@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁ ] 96.18 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁ ] 96.33 %
 >
-> ⏰ Updated on Wed, 18 Dec 2024 00:53:16 GMT
+> ⏰ Updated on Wed, 18 Dec 2024 13:58:19 GMT
 
 ### 👨‍💻 About Me
 
@@ -20,9 +20,9 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 ### 🛠️ Technical Skills
 
-* 🖥️ **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust
+* 🖥️ **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust, Go
 
-* 🧰 **Frameworks and Libraries**: Node.js, Vue.js, ASP.NET, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV, SwiftUI
+* 🧰 **Frameworks and Libraries**: Node.js, Vue.js, ASP.NET, Spring Boot, Cocos2d-x, Qt, Flutter, SwiftUI
 
 * 📈 **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
 
