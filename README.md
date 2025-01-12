@@ -6,27 +6,32 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 3.02 %
+> ⏳ Year Progress [ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 3.10 %
 >
-> ⏰ Updated on Sun, 12 Jan 2025 00:56:08 GMT
+> ⏰ Updated on Sun, 12 Jan 2025 07:12:42 GMT
 
 ### 👨‍💻 About Me
 
 [My Resume](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/resume/Resume_En.pdf) / [我的简历](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/resume/Resume_Zh.pdf)
 
-I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
+I'm Jishen Lin, an undergraduate student majoring in Software Engineering at [School of Computer Science and Technology](https://cs.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
-Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation! [Click here](https://minmuslin.github.io) to visit my homepage!
+**Self-evaluation:**
+
+- 🎓 Achieved excellent academic performance during undergraduate studies, with a solid grasp of fundamental knowledge in algorithms, data structures, operating systems, and possessing certain system analysis and design capabilities.
+- ⏰ Positive, optimistic, and highly responsible, with a meticulous work ethic and strong team communication and collaboration skills.
+- 📑 Passionate about programming, with a strong ability to learn and a keen interest in technology, coupled with good programming habits.
+- 💡 Highly curious, motivated, and eager to learn, consistently staying updated with the latest industry technologies and continuously improving professional expertise.
+
+Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
 ### 🛠️ Technical Skills
 
-* 🖥️ **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust, Go
-
-* 🧰 **Frameworks and Libraries**: Node.js, Vue.js, ASP.NET, Spring Boot, Cocos2d-x, Qt, Flutter, SwiftUI
-
-* 📈 **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
-
-* ⚙️ **Development Tools**: Git, GitHub Actions, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+- 🖥️ Proficient in programming languages such as C/C++, C#, Java, Go, Python, and Rust, with strong capabilities in system development and algorithm implementation.
+- 🧰 Skilled in the Vue.js ecosystem and familiar with frameworks like Spring Boot, possessing full-stack development experience.
+- ⚙️ Experienced in Linux environments and associated toolchains, proficient in development tools such as CMake, Makefile, and Docker.
+- 📈 Highly skilled in Git version control and CI/CD workflows like GitHub Actions.
+- 🗃️ Capable of database design and optimization, with hands-on experience in MySQL and Redis.
 
 ### 📊 My GitHub
 
