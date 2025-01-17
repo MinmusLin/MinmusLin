@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 4.39 %
+> ⏳ Year Progress [ ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 4.60 %
 >
-> ⏰ Updated on Fri, 17 Jan 2025 00:48:36 GMT
+> ⏰ Updated on Fri, 17 Jan 2025 18:35:02 GMT
 
 ### 👨‍💻 About Me
 
@@ -27,7 +27,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 ### 🛠️ Technical Skills
 
-- 🖥️ Proficient in programming languages such as C/C++, C#, Java, Go, Python, and Rust, with strong capabilities in system development and algorithm implementation.
+- 🖥️ Proficient in programming languages such as C/C++, Java and Go, with strong capabilities in system development and algorithm implementation.
 - 🧰 Skilled in the Vue.js ecosystem and familiar with frameworks like Spring Boot, possessing full-stack development experience.
 - ⚙️ Experienced in Linux environments and associated toolchains, proficient in development tools such as CMake, Makefile, and Docker.
 - 📈 Highly skilled in Git version control and CI/CD workflows like GitHub Actions.
