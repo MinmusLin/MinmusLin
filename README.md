@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 15.63 %
+> ⏳ Year Progress [ ▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 18.64 %
 >
-> ⏰ Updated on Thu, 27 Feb 2025 00:52:08 GMT
+> ⏰ Updated on Mon, 10 Mar 2025 00:44:00 GMT
 
 ### 👨‍💻 About Me ([CV](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/assets/CV.pdf))
 
@@ -16,11 +16,10 @@ I'm Jishen Lin, an undergraduate student majoring in Software Engineering at [Sc
 
 ### 🛠️ Technical Skills
 
-- 🖥️ Proficient in programming languages such as C/C++, Java, and Go, with the ability to develop systems and implement algorithms.
-- 🧰 Experienced in full-stack development, familiar with the Vue.js ecosystem and frameworks like Spring Boot.
-- ⚙️ Skilled in Linux environments and associated toolchains, with expertise in development tools such as Makefile and Docker.
-- 📈 Highly proficient in Git version control and CI/CD workflows like GitHub Actions.
-- 🗃️ Capable of database design and optimization, with experience in MySQL and Redis.
+- 🖥️ Proficient in Java programming language and Spring Boot framework, with the ability to develop systems and implement algorithms.
+- 🧰 Experienced in Vue.js ecosystem, possessing full-stack development experience.
+- ⚙️ Familiar with Linux environment and basic operations, skilled in development tools such as Git, Docker, and GitHub Actions CI/CD workflows.
+- 🗃️ Capable of database design, with expertise in MySQL and Redis.
 
 ### 📊 My GitHub
 
