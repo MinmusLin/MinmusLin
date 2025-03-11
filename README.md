@@ -1,6 +1,5 @@
 <h1>
-  <img src='assets/MeowClorox.gif' height='30' width='30'/>
-  Hi there my No.
+  👋 Hi there my No.
   <img src='https://profile-counter.glitch.me/MinmusLin/count.svg'/>
   visitor!
 </h1>
@@ -8,9 +7,9 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 18.94 %
 >
-> ⏰ Updated on Tue, 11 Mar 2025 03:27:21 GMT
+> ⏰ Updated on Tue, 11 Mar 2025 03:28:12 GMT
 
-### 👨‍💻 About Me ([CV](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/assets/CV.pdf))
+### 👨‍💻 About Me ([CV](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/CV/CV.pdf))
 
 I'm Jishen Lin, an undergraduate student majoring in Software Engineering at [School of Computer Science and Technology](https://cs.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
