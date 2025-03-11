@@ -5,15 +5,15 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 18.94 %
+> ⏳ Year Progress [ ▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 18.95 %
 >
-> ⏰ Updated on Tue, 11 Mar 2025 03:29:55 GMT
+> ⏰ Updated on Tue, 11 Mar 2025 03:37:37 GMT
 
 ### 👨‍💻 About Me ([CV](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/CV/CV.pdf))
 
 I'm Jishen Lin, an undergraduate student majoring in Software Engineering at [School of Computer Science and Technology](https://cs.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
-### 🛠️ Technical Skills
+### 🛠️ Skills
 
 - 🖥️ Proficient in Java programming language and Spring Boot framework, with the ability to develop systems and implement algorithms.
 - 🧰 Experienced in Vue.js ecosystem, possessing full-stack development experience.
