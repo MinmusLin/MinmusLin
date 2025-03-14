@@ -29,10 +29,12 @@ I'm Jishen Lin, an undergraduate student majoring in Software Engineering at [Sc
 
 ### 🛠️ Skills
 
-- 🖥️ Proficient in Java programming language and Spring Boot framework, with the ability to develop systems and implement algorithms.
-- 🧰 Experienced in Vue.js ecosystem, possessing full-stack development experience.
-- ⚙️ Familiar with Linux environment and basic operations, skilled in development tools such as Git, Docker, and GitHub Actions CI/CD workflows.
+- 🖥️ Proficient in the fundamentals of the Java language and familiar with JVM principles, with the ability to develop systems and implement algorithms.
+- 🧰 Skilled in frameworks such as Spring Boot and MyBatis, with an understanding of Spring IoC and AOP principles, and experienced with Kafka message queues.
+- ⌨️ Experienced in the Vue.js ecosystem, with full-stack development capabilities.
+- ⚙️ Familiar with the Linux environment and basic operations, proficient in development tools such as Git, Docker, Maven, and GitHub Actions CI/CD workflows.
 - 🗃️ Capable of database design, with expertise in MySQL and Redis.
+- 📑 Knowledgeable in core computer science concepts such as data structures and algorithms, operating systems, and computer networks, with an understanding of common design patterns.
 
 ### 📊 My GitHub
 
