@@ -5,9 +5,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 24.69 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 24.72 %
 >
-> ⏰ Updated on Tue, 01 Apr 2025 02:59:00 GMT
+> ⏰ Updated on Tue, 01 Apr 2025 05:06:56 GMT
 
 ### 👨‍💻 [About Me](https://minmuslin.github.io) ([CV](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/CV/CV.pdf))
 
@@ -15,12 +15,15 @@ I'm Jishen Lin, an undergraduate student majoring in Software Engineering at [Sc
 
 ### 🛠️ Technical Skills
 
-- 🖥️ Proficient in the fundamentals of the Java language and familiar with JVM principles, with the ability to develop systems and implement algorithms.
-- 🧰 Skilled in frameworks such as Spring Boot and MyBatis, with an understanding of Spring IoC and AOP principles, and experienced with Kafka message queues.
-- ⌨️ Experienced in the Vue.js ecosystem, with full-stack development capabilities.
-- ⚙️ Familiar with the Linux environment and basic operations, proficient in development tools such as Git, Docker, Maven, and GitHub Actions CI/CD workflows.
-- 🗃️ Capable of database design, with expertise in MySQL and Redis.
-- 📑 Knowledgeable in core computer science concepts such as data structures and algorithms, operating systems, and computer networks, with an understanding of common design patterns.
+- 📚 **Computer Fundamentals:** Proficient in core computer science concepts including ​data structures & algorithms, operating systems, and computer networks, with familiarity in common design patterns.
+- 🖥️ **Programming Languages:** Solid grasp of ​Java (basic syntax, OOP principles, exception handling, collections framework). Familiar with key language specifics of ​C/C++.
+- ⚙️ **Development Tools:** Skilled in ​Git, Docker, Docker Compose, Maven, IntelliJ IDEA, and comfortable working in ​Linux environments.
+- 🗃️ **Databases:** Capable of database design, with hands-on experience in ​MySQL and ​Redis.
+- 🧰 **Backend Development:** Proficient in ​Spring Boot and ​MyBatis. Understands core principles of ​Spring IoC and ​AOP.
+- ⌨️ **Frontend Development:** Competent in fundamental ​web development. Experienced with the ​Vue.js ecosystem and full-stack development.
+- 📈 **DevOps:**
+Practical experience with ​GitHub Actions and ​GitLab CI/CD. Capable of setting up ​continuous integration and deployment (CI/CD) pipelines.
+- 🔎 **Soft Skills:** Strong ​problem-solving, communication, and collaboration abilities. Able to efficiently troubleshoot issues, work effectively in teams, and continuously learn new technologies to enhance skills.
 
 ### 📊 My GitHub
 
