@@ -5,9 +5,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 26.59 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 26.86 %
 >
-> ⏰ Updated on Tue, 08 Apr 2025 00:54:49 GMT
+> ⏰ Updated on Wed, 09 Apr 2025 00:55:09 GMT
 
 ### 👨‍💻 [About Me](https://minmuslin.github.io) ([CV](https://github.com/MinmusLin/MinmusLin/raw/refs/heads/main/CV/CV.pdf))
 
