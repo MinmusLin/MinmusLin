@@ -1,4 +1,4 @@
-name: Year Progress
+name: year-progress
 
 on:
   workflow_dispatch:
