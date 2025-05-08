@@ -5,13 +5,17 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 34.81 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 34.96 %
 >
-> ⏰ Updated on Thu, 08 May 2025 00:58:14 GMT
+> ⏰ Updated on Thu, 08 May 2025 14:38:44 GMT
 
 ### 👨‍💻 About Me ([Blog](https://www.minmuslin.cn), [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 
-I'm Jishen Lin, an undergraduate student majoring in Software Engineering at [School of Computer Science and Technology](https://cs.tongji.edu.cn), [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
+💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
+🛒 Backend Software Engineer Intern @ Douyin E-Commerce, ByteDance (ByteIntern Program)
+🎓 B.Eng. in Software Engineering @ School of Computer Science and Technology, Tongji University
+🔍 Thrives on technical challenges and collaborative problem-solving to create impactful solutions
+🌱 Continuously learning and growing, with endless curiosity about emerging technologies and best practices
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true' height='190'/>
