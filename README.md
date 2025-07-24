@@ -3,9 +3,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 55.96 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 55.97 %
 >
-> ⏰ Updated on Thu, 24 Jul 2025 06:07:35 GMT
+> ⏰ Updated on Thu, 24 Jul 2025 06:32:23 GMT
 
 ### 👨‍💻 About Me ([Blog](https://www.minmuslin.cn), [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 
@@ -17,6 +17,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true&rank_icon=github&hide=issues&line_height=24"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=Jupyter%20Notebook"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=Jupyter%20Notebook,TeX"/>
 </div>
 
