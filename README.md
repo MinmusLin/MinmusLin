@@ -5,13 +5,14 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 55.97 %
 >
-> ⏰ Updated on Thu, 24 Jul 2025 06:32:23 GMT
+> ⏰ Updated on Thu, 24 Jul 2025 06:55:05 GMT
 
 ### 👨‍💻 About Me ([Blog](https://www.minmuslin.cn), [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 
 * 💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
 * 🛒 Backend Software Engineer Intern @ Douyin E-Commerce, ByteDance (ByteIntern Program)
 * 🎓 B.Eng. in Software Engineering @ School of Computer Science and Technology, Tongji University
+* 🏆 ​​iGEM 2024 Gold Medalist​​ (Software & AI Track) - Led software and wiki development as Tech Lead
 * 🔍 Thrives on technical challenges and collaborative problem-solving to create impactful solutions
 * 🌱 Continuously learning and growing, with endless curiosity about emerging technologies and best practices
 
