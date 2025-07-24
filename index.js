@@ -7,15 +7,13 @@ const progressBarOfThisYear = generateProgressBar()
 function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
-    const progressBar = '▇'.repeat(passedProgressBarIndex) + '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
+    const progressBar = "▇".repeat(passedProgressBarIndex) + "▁".repeat(progressBarCapacity - passedProgressBarIndex)
     return `[ ${progressBar} ]`
 }
 
 const readme = `\
 <h1>
-  👋 Hi there my No.
-  <img src='https://profile-counter.glitch.me/MinmusLin/count.svg'/>
-  visitor!
+  👋 Hi there, I'm Jishen Lin!
 </h1>
 
 > [!TIP]
@@ -31,9 +29,9 @@ const readme = `\
 * 🔍 Thrives on technical challenges and collaborative problem-solving to create impactful solutions
 * 🌱 Continuously learning and growing, with endless curiosity about emerging technologies and best practices
 
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true' height='190'/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact' height='190'/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true&rank_icon=github&hide=issues&line_height=24"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=Jupyter%20Notebook"/>
 </div>
 `
 
