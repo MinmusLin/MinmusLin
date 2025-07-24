@@ -3,9 +3,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 55.97 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 56.02 %
 >
-> ⏰ Updated on Thu, 24 Jul 2025 06:55:05 GMT
+> ⏰ Updated on Thu, 24 Jul 2025 11:42:49 GMT
 
 ### 👨‍💻 About Me ([Blog](https://www.minmuslin.cn), [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 
@@ -16,8 +16,16 @@
 * 🔍 Thrives on technical challenges and collaborative problem-solving to create impactful solutions
 * 🌱 Continuously learning and growing, with endless curiosity about emerging technologies and best practices
 
+### 📊 My GitHub
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true&rank_icon=github&hide=issues&line_height=24"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=Jupyter%20Notebook,TeX"/>
+</div>
+
+### ⏱️ My WakaTime
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinmusLin&layout=compact"/>
 </div>
 
