@@ -31,7 +31,7 @@ const readme = `\
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true&rank_icon=github&hide=issues&line_height=24"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=Jupyter%20Notebook"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=Jupyter%20Notebook,TeX"/>
 </div>
 `
 
