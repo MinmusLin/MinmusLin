@@ -1,9 +1,11 @@
 <h1>👋 Hi there, I'm Jishen Lin!</h1>
 
+![](https://komarev.com/ghpvc/?username=MinmusLin&style=for-the-badge)
+
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 56.23 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 56.28 %
 >
-> ⏰ Updated on Fri, 25 Jul 2025 05:39:54 GMT
+> ⏰ Updated on Fri, 25 Jul 2025 09:46:03 GMT
 
 ### 👨‍💻 About Me ([Blog](https://www.minmuslin.cn), [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 
