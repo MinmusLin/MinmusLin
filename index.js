@@ -13,6 +13,8 @@ function generateProgressBar() {
 
 const readme = `<h1>👋 Hi there, I'm Jishen Lin!</h1>
 
+![](https://komarev.com/ghpvc/?username=MinmusLin&style=for-the-badge)
+
 > [!TIP]
 > ⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 >
