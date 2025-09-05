@@ -1,9 +1,9 @@
 <h1>👋 Hi there, I'm Jishen Lin!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 67.68 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 67.75 %
 >
-> ⏰ Updated on Fri, 05 Sep 2025 00:54:16 GMT
+> ⏰ Updated on Fri, 05 Sep 2025 07:09:42 GMT
 
 ### 👨‍💻 About Me ([Blog](https://www.minmuslin.cn), [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 
@@ -26,6 +26,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinmusLin&layout=compact"/>
 </div>
+
+---
 
 > “Elegance in programming is not a dispensable luxury, but a factor that determines success or failure. Elegance is not a matter of aesthetics or a question of fashionable taste — it can be translated into viable techniques.”
 >
