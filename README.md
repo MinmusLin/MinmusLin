@@ -1,9 +1,9 @@
 <h1>👋 Hi there, I'm Jishen Lin!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 68.40 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 68.41 %
 >
-> ⏰ Updated on Sun, 07 Sep 2025 16:16:17 GMT
+> ⏰ Updated on Sun, 07 Sep 2025 16:17:19 GMT
 
 ### 👨‍💻 About Me ([Blog](https://www.minmuslin.cn), [Lark](https://www.larkoffice.com/invitation/page/add_contact/?token=154v9ded-7060-4f8d-a18c-1ca756b04766), [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 
@@ -19,6 +19,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 360px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=jupyter%20notebook&langs_count=20" style="height: 360px"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MinmusLin/MinmusLin/output/contribution-animation.svg"/>
 </div>
 
 ### ⏱️ My WakaTime
