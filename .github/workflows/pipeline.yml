@@ -1,4 +1,4 @@
-name: year-progress
+name: Pipeline
 
 on:
   workflow_dispatch:
@@ -9,22 +9,19 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  build:
+  year-progress:
+    name: Year Progress
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Set up Node.js
         uses: actions/setup-node@v1
         with:
           node-version: '14.x'
-
       - name: Update README.md
         run: |
           node index.js > README.md
-
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
@@ -32,3 +29,23 @@ jobs:
           git add .
           git commit -m "Update README.md" || echo "No changes to commit"
           git push
+
+  contribution-animation:
+    name: Contribution Animation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution-animation.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-animation.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push contribution-animation.svg
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
