@@ -34,6 +34,10 @@ const readme = `<h1>👋 Hi there, I'm Jishen Lin!</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=jupyter%20notebook&langs_count=20" style="height: 360px"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MinmusLin/MinmusLin/output/contribution-animation.svg"/>
+</div>
+
 ### ⏱️ My WakaTime
 
 <div align="center">
