@@ -1,11 +1,11 @@
 <h1>👋 Hi there, I'm Jishen Lin!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 68.53 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 68.54 %
 >
-> ⏰ Updated on Mon, 08 Sep 2025 03:10:47 GMT
+> ⏰ Updated on Mon, 08 Sep 2025 04:28:03 GMT
 
-### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [Lark](https://www.larkoffice.com/invitation/page/add_contact/?token=154v9ded-7060-4f8d-a18c-1ca756b04766), [CV](https://minmuslin.cn/cv/cv.pdf))
+### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [Lark](https://www.larkoffice.com/invitation/page/add_contact/?token=154v9ded-7060-4f8d-a18c-1ca756b04766), [CV](https://minmuslin.cn/cv))
 
 * 💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
 * 🛒 Backend Software Engineer @ Douyin Group, ByteDance
