@@ -18,7 +18,7 @@ const readme = `<h1>👋 Hi there, I'm Jishen Lin!</h1>
 >
 > ⏰ Updated on ${new Date().toUTCString()}
 
-### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [Lark](https://www.larkoffice.com/invitation/page/add_contact/?token=154v9ded-7060-4f8d-a18c-1ca756b04766), [CV](https://minmuslin.cn/cv))
+### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/cv))
 
 * 💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
 * 🛒 Backend Software Engineer @ Douyin Group, ByteDance
