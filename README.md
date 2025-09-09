@@ -1,11 +1,11 @@
 <h1>👋 Hi there, I'm Jishen Lin!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 68.85 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ ] 68.86 %
 >
-> ⏰ Updated on Tue, 09 Sep 2025 06:55:49 GMT
+> ⏰ Updated on Tue, 09 Sep 2025 08:04:07 GMT
 
-### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/cv))
+### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/Resume_Template/cv.pdf))
 
 * 💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
 * 🛒 Backend Software Engineer @ Douyin Group, ByteDance
