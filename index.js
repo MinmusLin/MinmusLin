@@ -18,7 +18,7 @@ const readme = `<h1>👋 Hi there, I'm Jishen Lin!</h1>
 >
 > ⏰ Updated on ${new Date().toUTCString()}
 
-### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/cv))
+### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/Resume_Template/cv.pdf))
 
 * 💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
 * 🛒 Backend Software Engineer @ Douyin Group, ByteDance
