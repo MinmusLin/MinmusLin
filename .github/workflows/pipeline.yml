@@ -23,7 +23,7 @@ jobs:
           node-version: '14.x'
       - name: Update README.md
         run: |
-          node index.js > README.md
+          node main.js > README.md
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
