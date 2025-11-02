@@ -1,9 +1,9 @@
 <h1>👋 Hi there, I'm Jishen Lin!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁ ] 83.57 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁ ] 83.65 %
 >
-> ⏰ Updated on Sun, 02 Nov 2025 01:09:53 GMT
+> ⏰ Updated on Sun, 02 Nov 2025 07:38:54 GMT
 
 ### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/Resume_Template/cv.pdf))
 
@@ -31,9 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinmusLin&layout=compact"/>
 </div>
 
----
-
 > “Elegance in programming is not a dispensable luxury, but a factor that determines success or failure. Elegance is not a matter of aesthetics or a question of fashionable taste — it can be translated into viable techniques.”
->
-> “程序的优雅性不是可以或缺的奢侈品，而是决定成功还是失败的一个要素。优雅并不是一个美学的问题，也不是一个时尚品味的问题，优雅能够被翻译成可行的技术。”
 
