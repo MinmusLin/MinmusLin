@@ -1,9 +1,12 @@
 name: GitHub Stats
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -41,8 +44,8 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add profile/*.svg
           git commit -m "Update GitHub Stats" || exit 0
           git push
