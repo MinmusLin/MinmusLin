@@ -9,7 +9,7 @@ on:
     - cron: '0 0 * * *'
 
 concurrency:
-  group: github-stats-${{ github.ref }}
+  group: github-stats-output
   cancel-in-progress: true
 
 jobs:
@@ -22,12 +22,24 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Checkout output branch
+        run: |
+          git fetch origin output || true
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git switch output
+            git reset --hard origin/output
+          else
+            git switch --orphan output
+            git rm -rf . || true
+          fi
+          mkdir -p profile
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
-          path: profile/stats.svg
+          path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -35,7 +47,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook&langs_count=20
-          path: profile/top-langs.svg
+          path: top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate wakatime card
@@ -43,16 +55,14 @@ jobs:
         with:
           card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact
-          path: profile/wakatime.svg
+          path: wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add profile/*.svg
+          git add stats.svg top-langs.svg wakatime.svg
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Update GitHub Stats"
-          git fetch origin main
-          git rebase origin/main
-          git push origin HEAD:main
+          git push origin HEAD:output
