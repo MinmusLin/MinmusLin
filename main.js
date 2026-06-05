@@ -30,8 +30,8 @@ const readme = `<h1>👋 Hi there, I'm Jishen Lin!</h1>
 ### 📊 My GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinmusLin&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 360px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinmusLin&layout=compact&hide=jupyter%20notebook&langs_count=20" style="height: 360px"/>
+  <img src="https://raw.githubusercontent.com/MinmusLin/MinmusLin/output/stats.svg" style="height: 360px"/>
+  <img src="https://raw.githubusercontent.com/MinmusLin/MinmusLin/output/top-langs.svg" style="height: 360px"/>
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@ const readme = `<h1>👋 Hi there, I'm Jishen Lin!</h1>
 ### ⏱️ My WakaTime
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MinmusLin&layout=compact"/>
+  <img src="https://raw.githubusercontent.com/MinmusLin/MinmusLin/output/wakatime.svg"/>
 </div>
 
 > “Elegance in programming is not a dispensable luxury, but a factor that determines success or failure. Elegance is not a matter of aesthetics or a question of fashionable taste — it can be translated into viable techniques.”
