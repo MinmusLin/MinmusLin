@@ -21,7 +21,7 @@ const readme = `<h1>👋 Hi there, I'm Jishen Lin!</h1>
 ### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/Resume_Template/cv.pdf))
 
 * 💻 Full-stack development enthusiast passionate about solving real-world problems through elegant engineering practices
-* 🛒 Backend Software Engineer @ Douyin Group, ByteDance
+* 🛒 Backend Software Engineer @ Douyin Group, ByteDance Inc.
 * 🎓 B.Eng. in Software Engineering @ School of Computer Science and Technology, Tongji University
 * 🏆 ​​iGEM 2024 Gold Medalist​​ (Software & AI Track) - Led software and wiki development as Tech Lead
 * 🔍 Thrives on technical challenges and collaborative problem-solving to create impactful solutions
