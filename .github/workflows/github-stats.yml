@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
+concurrency:
+  group: github-stats-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +19,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -22,6 +29,7 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -29,6 +37,7 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook&langs_count=20
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate wakatime card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -36,10 +45,14 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add profile/*.svg
-          git commit -m "Update GitHub Stats" || echo "No changes to commit"
-          git push
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Update GitHub Stats"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
