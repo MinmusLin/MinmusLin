@@ -32,7 +32,6 @@ jobs:
             git switch --orphan output
             git rm -rf . || true
           fi
-          mkdir -p profile
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
@@ -65,4 +64,6 @@ jobs:
           git add stats.svg top-langs.svg wakatime.svg
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Update GitHub Stats"
+          git fetch origin output
+          git rebase origin/output
           git push origin HEAD:output
