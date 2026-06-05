@@ -21,6 +21,7 @@ jobs:
             dist/contribution-animation.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push contribution-animation.svg
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
