@@ -1,4 +1,4 @@
-name: Pipeline
+name: Year Progress
 
 on:
   workflow_dispatch:
