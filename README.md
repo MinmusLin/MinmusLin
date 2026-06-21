@@ -1,9 +1,9 @@
 <h1>👋 Hi there, I'm Jishen Lin!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 46.60 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 46.88 %
 >
-> ⏰ Updated on Sat, 20 Jun 2026 02:10:27 GMT
+> ⏰ Updated on Sun, 21 Jun 2026 02:34:00 GMT
 
 ### 👨‍💻 About Me ([Blog](https://minmuslin.cn), [CV](https://minmuslin.cn/Resume_Template/cv.pdf))
 
